@@ -137,6 +137,7 @@ nav{
     animation-name: hbtn;
     animation-direction: alternate;
     animation-iteration-count: infinite;
+    z-index: 1;
 }
 
 @keyframes hbtn{
