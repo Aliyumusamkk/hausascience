@@ -286,6 +286,8 @@ nav{
     overflow: hidden;
     border-radius: 8px;
     box-shadow: 0px 0px 12px rgb(174, 172, 172);
+    text-transform: uppercase;
+    font-weight: 600;
 }
 .list h3{
 text-wrap: nowrap;
@@ -296,6 +298,11 @@ color: cadetblue;
 
 .list ol li{
     font-size: 14px;
+}
+
+.list span{
+    display: inline;
+    color: green;
 }
 
 .banner{
